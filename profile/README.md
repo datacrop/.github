@@ -5,7 +5,7 @@ Data CROP (Data Collection Routing & Processing) is a Data collection framework 
 ## Technologies/Framework 
 DataCROP has been developed and applied in various iterations, within the context of various EU projects, with different dependencies 
  
-Barley (v1.0)
+DataCROP Barley (v1.0)
 Outcome of FAR-EDGE EU Project
 *	MongoDB 
 *	Apache Kafka (Inter-Data Bus) 
@@ -15,7 +15,7 @@ Outcome of FAR-EDGE EU Project
 *	React (UI) 
 *	Hyperledger Fabric (optional Blockchain support) 
  
-Farro (v2.0) 
+DataCROP Farro (v2.0) 
 Outcome of Barley version and PROPHESY EU project
 *	MongoDB 
 *	Apache Kafka (Inter-Data Bus communication & input/output interface) 
@@ -27,7 +27,7 @@ Outcome of Barley version and PROPHESY EU project
 * NodeJS (Component Implementation) 
 * React (UI) 
  
-Maize (V3.0) - (under construction) 
+DataCROP Maize (V3.0) - (under construction) 
 Outcome of Farro version and SecureIoT, IoTAC EU projects 
 *	MongoDB 
 *	Apache Kafka (Inter-Data Bus) 
