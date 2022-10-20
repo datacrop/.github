@@ -38,11 +38,6 @@ Outcome of Farro version and SecureIoT, IoTAC EU projects
 *	ELK Stack 
 *	Additional to be included as developments evolves
 
-## Demonstrator
-
-A DataCROP Farro version demo infrastracture instance, which can be deployed locally, can be found at the [farro-demo-deployment-scripts](https://github.com/datacrop/farro-demo-deployment-scripts) repository.
-
-
 
 ## Maturity Level / Active years 
 
