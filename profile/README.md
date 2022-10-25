@@ -1,15 +1,15 @@
 # Information 
-Data CROP (Data Collection Routing & Processing) is a Data collection framework which provides the specifications and relevant implementation to enable a real time data collection, transformation, filtering, and management service to facilitate data consumers (i.e., analytic algorithms). The framework can be applied in IoT environments supporting solutions in various domains (e.g., Industrial, Cybersecurity, etch.). For example, the solution may be used to collect security related data (e.g., network, system, solution proprietary, etch.) from monitored IoT systems and store them to detect patterns of abnormal behaviour by applying simple (i.e., filtering and pre-processing) or more elaborated mechanisms (i.e., AI algorithms). The design of the framework is driven by configurability, extensibility, dynamic setup, stream handling capabilities and Blockchain (Ledger) support. One of the key features of the framework is that it is detached from the underlying infrastructure by employing a specialized data model for modelling the solution’s Data Sources, Processors and Results which facilitates the data interoperability discoverability and configurability of the offered solution.    
+Data CROP&#8482; (Data Collection Routing & Processing) is a Data collection framework which provides the specifications and relevant implementation to enable a real time data collection, transformation, filtering, and management service to facilitate data consumers (i.e., analytic algorithms). The framework can be applied in IoT environments supporting solutions in various domains (e.g., Industrial, Cybersecurity, etch.). For example, the solution may be used to collect security related data (e.g., network, system, solution proprietary, etch.) from monitored IoT systems and store them to detect patterns of abnormal behaviour by applying simple (i.e., filtering and pre-processing) or more elaborated mechanisms (i.e., AI algorithms). The design of the framework is driven by configurability, extensibility, dynamic setup, stream handling capabilities and Blockchain (Ledger) support. One of the key features of the framework is that it is detached from the underlying infrastructure by employing a specialized data model for modelling the solution’s Data Sources, Processors and Results which facilitates the data interoperability discoverability and configurability of the offered solution.    
 
 
 ## Demonstrator
 
-A DataCROP Farro version demo infrastracture instance, which can be deployed locally, can be found at the [farro-demo-deployment-scripts](https://github.com/datacrop/farro-demo-deployment-scripts) repository.
+A DataCROP&#8482; Farro version demo infrastracture instance, which can be deployed locally, can be found at the [farro-demo-deployment-scripts](https://github.com/datacrop/farro-demo-deployment-scripts) repository.
 
 ## Technologies/Framework 
 DataCROP has been developed and applied in various iterations, within the context of various EU projects, with different dependencies 
  
-**DataCROP Barley** (v1.0)
+**DataCROP&#8482; Barley** (v1.0)
 Outcome of FAR-EDGE EU Project
 *	MongoDB 
 *	Apache Kafka (Inter-Data Bus) 
@@ -19,7 +19,7 @@ Outcome of FAR-EDGE EU Project
 *	React (UI) 
 *	Hyperledger Fabric (optional Blockchain support) 
  
-**DataCROP Farro** (v2.0) 
+**DataCROP&#8482; Farro** (v2.0) 
 Outcome of Barley version and PROPHESY EU project
 *	MongoDB 
 *	Apache Kafka (Inter-Data Bus communication & input/output interface) 
@@ -31,7 +31,7 @@ Outcome of Barley version and PROPHESY EU project
 * NodeJS (Component Implementation) 
 * React (UI) 
  
-**DataCROP Maize** (V3.0) - (under construction) 
+**DataCROP&#8482; Maize** (V3.0) - (under construction) 
 Outcome of Farro version and SecureIoT, IoTAC EU projects 
 *	MongoDB 
 *	Apache Kafka (Inter-Data Bus) 
