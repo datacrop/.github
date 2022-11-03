@@ -31,7 +31,7 @@ Outcome of Barley version and PROPHESY EU project
 * NodeJS (Component Implementation) 
 * React (UI) 
  
-**DataCROP&#8482; Maize** (V3.0) - (under construction) 
+**DataCROP&#8482; Maize** :corn: (V3.0) - (under construction :construction:) 
 Outcome of Farro version and SecureIoT, IoTAC EU projects 
 *	MongoDB 
 *	Apache Kafka (Inter-Data Bus) 
